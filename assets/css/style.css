@@ -1832,14 +1832,13 @@ Resume Timeline
     min-height: 350px;
 }
 .portfolio-bg{
-   color: #fff;
-   background: #fff;
+   color: ;
+   background: ;
    padding: 5px;
    margin-bottom: 20px;
    border: 1px solid #eee;
    border-bottom: 3px double #eee;
 }
-
 
 .portfolio {
     position: relative;
@@ -2198,12 +2197,14 @@ Icon for all respective meta
 
 /* === Contact Section === */
 .contact-section  {
-  
+    background: #1a1e23;
+    color: white;
 }
 
 .contact-section strong {
     display: block;
     text-transform: uppercase;
+    color: white;
 }
 .contact-form strong {
     margin-bottom: 40px;
