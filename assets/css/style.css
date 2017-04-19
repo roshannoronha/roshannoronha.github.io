@@ -374,7 +374,7 @@ ul.list-check li::before {
 }
 
 .intro h1{
-	font-size: 100px;
+	font-size: 120px;
 	line-height: 80px;
 	margin-bottom: 16px;
 	color: #af1a10;
@@ -427,7 +427,7 @@ SOCIAL ICON
 .social-icons a i{
     position: relative;
     color: #fff;
-     font-size: 28px;
+     font-size: 20px;
     margin: 0 30px;
     line-height: 40px;
     text-align: center;
