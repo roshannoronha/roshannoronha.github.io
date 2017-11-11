@@ -2584,3 +2584,13 @@ Icon for all respective meta
     padding: 5px;
     box-shadow: 0 0px 0px 1px #eee;
 }
+
+.instaimg img {
+    margin-bottom: 40px;
+}
+
+.instaimg img:hover {
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+    -webkit-opacity:0.5;
+}
