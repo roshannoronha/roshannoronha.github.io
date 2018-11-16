@@ -758,7 +758,7 @@ SOCIAL ICON footer
 
 
 .video-section {
-    background: url(../images/videoimages/pcrmachine.JPG) no-repeat center center;
+    background: url(../../assets/images/videoimages/pcrmachine.JPG) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -801,7 +801,7 @@ SOCIAL ICON footer
 
 /*---*/
 .video-section-2 {
-    background: url(../images/videoimages/wastetoworms.JPG) no-repeat center center;
+    background: url(../../assets/images/videoimages/wastetoworms.JPG) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -844,7 +844,7 @@ SOCIAL ICON footer
 
 /*---*/
 .video-section-3 {
-    background: url(../images/videoimages/tedxsfu.jpg) no-repeat center center;
+    background: url(../../assets/images/videoimages/tedxsfu.jpg) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
