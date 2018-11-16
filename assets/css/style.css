@@ -757,7 +757,7 @@ SOCIAL ICON footer
 */
 
 .video-section {
-    background: url(assets/images/videoimages/pcrmachine.JPG) no-repeat center center;
+    background: url(../../assets/images/videoimages/pcrmachine.JPG) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
